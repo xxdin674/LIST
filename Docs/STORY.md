@@ -6,7 +6,7 @@
 
 LIST adalah misteri horor orang pertama yang dibangun di atas rasa penasaran. Cerita menghubungkan investigasi Julian Mori di masa kini dengan lapisan sejarah tersembunyi yang terinspirasi Jawa Timur sekitar 1998.
 
-Pemain menemukan makna melalui eksplorasi, bukti, detail lingkungan, dan observasi, bukan melalui eksposisi panjang atau sinematik terus-menerus.
+Pemain menemukan makna melalui eksplorasi, bukti, detail lingkungan, dan observasi, bukan melalui penjelasan panjang atau sinematik terus-menerus.
 
 ## Premis Utama
 
@@ -14,9 +14,9 @@ Orang tua Julian Mori, Nurhadi Mori dan Maya Mori, telah meninggal. Keadaan di s
 
 Investigasinya kemudian menghubungkan orang tuanya dengan misteri sejarah 1998 dan **The LIST**, sebuah catatan berisi 21 nama.
 
-## Chapter 0 — Begin
+## Bab 0 — Awal
 
-### Inti yang Sudah Dibangun / Draft
+### Inti yang Sudah Dibangun / Draf
 
 1. Julian menerima kamera milik ayahnya.
 2. Kamera tersebut berisi rekaman yang berkaitan dengan 1998.
@@ -26,13 +26,13 @@ Investigasinya kemudian menghubungkan orang tuanya dengan misteri sejarah 1998 d
 6. Anomali pertama diperkenalkan.
 7. Konsep **SEEN** diperkenalkan sebagai elemen misteri.
 
-### Perasaan yang Diinginkan di Akhir Chapter 0
+### Perasaan yang Diinginkan di Akhir Bab 0
 
-Chapter 0 harus berakhir dengan pertanyaan, bukan jawaban lengkap.
+Bab 0 harus berakhir dengan pertanyaan, bukan jawaban lengkap.
 
 Pemain memahami bahwa orang tua Julian terhubung dengan sesuatu yang sudah ada sebelum dirinya, tetapi belum memahami arti penuh The LIST maupun fenomenanya.
 
-## Chapter 1 — Nama Pertama
+## Bab 1 — Nama Pertama
 
 **Status: EKSPLORASI / BELUM SEPENUHNYA KANON**
 
@@ -45,7 +45,7 @@ Konsep dialog yang pernah dieksplorasi:
 - **"Ini bukan daftar orang."**
 - **"Jangan cari tahu."**
 
-Horor tetap bersifat observasional, bukan berfokus pada combat.
+Horor tetap bersifat observasional, bukan berfokus pada pertarungan.
 
 Salah satu ide akhir yang pernah dieksplorasi: nama berikutnya ternyata milik seseorang yang saat ini dikenal Julian.
 
@@ -75,5 +75,5 @@ Untuk setiap pengungkapan besar, catat:
 - Urutan pasti kematian orang tua Julian
 - Peristiwa 1998 secara lengkap
 - Arti pasti 21 nama
-- Urutan Chapter 1 secara lengkap
+- Urutan Bab 1 secara lengkap
 - Penjelasan akhir mengenai fenomena
