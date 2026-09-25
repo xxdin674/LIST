@@ -32,8 +32,6 @@ LIST berada di dunia fiksi yang terinspirasi kondisi sejarah nyata di Jawa Timur
 
 Inspirasi dunia nyata dapat diubah melalui nama, tempat, organisasi, dan peristiwa fiktif.
 
-### Prinsip saat ini
-
 Lapisan sejarah harus terasa cukup masuk akal untuk menimbulkan rasa penasaran tanpa menjadikan LIST sebagai rekonstruksi langsung sejarah dunia nyata.
 
 **Status:** CANON
@@ -50,7 +48,7 @@ Lapisan sejarah harus terasa cukup masuk akal untuk menimbulkan rasa penasaran t
 
 ## 2.2 Struktur Linimasa
 
-Dunia harus memiliki setidaknya dua lapisan waktu penting:
+Dunia memiliki setidaknya dua lapisan waktu penting:
 
 1. Periode sejarah di sekitar peristiwa yang terinspirasi tahun 1998.
 2. Investigasi Julian di masa kini.
@@ -152,17 +150,24 @@ Lapisan sejarah digunakan untuk memberikan konteks pada misteri, bukan sekadar d
 
 Periode yang terinspirasi 1998 berkaitan dengan:
 
-- Orang tua Julian
+- Generasi kakek dan nenek Julian
+- Nurhadi dan Maya
 - The LIST
 - Peristiwa sejarah
-- Orang-orang yang hilang
+- Orang-orang yang hilang atau terdampak
 - Fenomena yang belum dapat dijelaskan
 
 Urutan kejadian dan hubungan sebab-akibat secara tepat masih **UNKNOWN** dan harus dikembangkan sebelum menjadi kanon.
 
 ## 5.3 Pemicu Sejarah Bab 0
 
-Julian menerima kamera milik ayahnya dan menemukan rekaman dari tahun 1998. Rekaman tersebut membawanya pada sebuah dokumen yang berkaitan dengan The LIST, di mana namanya sendiri muncul meskipun dokumen tersebut berasal dari 1998. Peringatan yang berkaitan dengan materi tersebut berbunyi **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** Anomali pertama diperkenalkan melalui penemuan ini.
+Julian menemukan dan menelusuri kamera milik ayahnya. Materi dalam kamera membawanya pada tahun 1998 dan sebuah dokumen yang berkaitan dengan The LIST. The LIST berisi 21 nama.
+
+Dalam proses investigasi, Julian menemukan bahwa dua nama dalam daftar tersebut adalah **kakek dan neneknya sendiri**.
+
+Pada materi lain yang berasal dari periode 1998, muncul nama Julian atau informasi yang berkaitan dengannya, menciptakan pertanyaan tentang bagaimana seorang anak yang belum lahir dapat memiliki hubungan dengan dokumen tersebut.
+
+Peringatan **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** serta anomali pertama memperkenalkan konsep **SEEN**.
 
 **Status:** DRAFT / INTI PEMBUKAAN
 
@@ -210,10 +215,10 @@ Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentu
 - **Perspektif:** Orang pertama
 - **Arah kepribadian:** Penasaran, ceria, aktif
 - **Arah visual:** Penampilan Asia, rambut wolf-cut, kacamata, pipi chubby, tubuh agak kecil/chubby tetapi aktif
-- **Motivasi utama:** Menyelidiki kematian orang tuanya dan mengetahui apa yang sebenarnya terjadi.
+- **Motivasi utama:** Menyelidiki misteri keluarganya dan mengetahui apa yang sebenarnya terjadi.
 - **Arah karakter yang sudah ditetapkan:** Berbakat secara alami dan belajar secara mandiri; mampu memperhatikan pola/detail yang sering dilewatkan orang lain; rasa penasaran dapat mengalahkan dorongan untuk mundur.
-- **Pengetahuan awal tentang misteri sejarah:** Terbatas
-- **Hubungan dengan The LIST:** Sangat penting
+- **Pengetahuan awal tentang sejarah keluarga:** Terbatas
+- **Hubungan dengan The LIST:** Sangat penting; kakek dan neneknya termasuk dalam 21 nama
 - **Peran pertarungan:** Tidak ada / seminimal mungkin sesuai desain
 
 **Status:** CANON / PROVISIONAL untuk detail yang belum final
@@ -221,9 +226,10 @@ Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentu
 ## 7.2 Nurhadi Mori
 
 - **Peran:** Ayah Julian
-- **Hubungan:** Aktif pada periode sejarah yang terinspirasi 1998
-- **Status saat masa Julian:** Meninggal
-- **Hubungan dengan misteri:** Sangat penting
+- **Status saat masa Julian:** **Masih hidup**
+- **Hubungan dengan periode 1998:** Mengetahui dan/atau terlibat dalam sejarah keluarga yang berkaitan dengan The LIST
+- **Hubungan dengan Julian:** Sengaja tidak memberikan petunjuk tentang sejarah tersebut
+- **Benda penting:** Kamera milik Nurhadi menjadi artefak utama investigasi
 - **Sejarah lengkap:** AKAN DITENTUKAN
 
 **Status:** CANON
@@ -231,12 +237,21 @@ Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentu
 ## 7.3 Maya Mori
 
 - **Peran:** Ibu Julian
-- **Hubungan:** Aktif pada periode sejarah yang terinspirasi 1998
-- **Status saat masa Julian:** Meninggal
-- **Hubungan dengan misteri:** Sangat penting
+- **Status saat masa Julian:** **Masih hidup**
+- **Hubungan dengan periode 1998:** Mengetahui dan/atau terlibat dalam sejarah keluarga yang berkaitan dengan The LIST
+- **Hubungan dengan Julian:** Sengaja tidak memberikan petunjuk tentang sejarah tersebut
 - **Sejarah lengkap:** AKAN DITENTUKAN
 
 **Status:** CANON
+
+## 7.4 Kakek & Nenek Julian
+
+- Dua dari **21 nama The LIST** adalah kakek dan nenek Julian.
+- Identitas, nomor daftar, peran, dan nasib mereka belum dikunci.
+- Hubungan mereka dengan peristiwa 1998 menjadi salah satu pengungkapan penting.
+- Julian awalnya tidak mengetahui bahwa dua nama tersebut adalah keluarganya sendiri.
+
+**Status:** CANON CORE / DETAIL UNKNOWN
 
 ---
 
@@ -246,7 +261,12 @@ Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentu
 
 **The LIST** adalah elemen misteri utama yang berisi **21 nama**.
 
-Identitas, hubungan, koneksi sejarah, dan alasan setiap orang berada dalam daftar masih dikembangkan.
+Arah kanon terbaru:
+
+- 21 nama tersebut berasal dari jaringan manusia yang berkaitan dengan peristiwa 1998.
+- **Kakek Julian dan nenek Julian termasuk di dalamnya.**
+- **Nurhadi dan Maya bukan anggota The LIST.**
+- Hubungan masing-masing nama dengan peristiwa dan satu sama lain masih dikembangkan.
 
 **Status:** CANON
 
@@ -390,8 +410,10 @@ Saat membuat pengungkapan besar, catat:
 
 Jenis bukti potensial:
 
-- Foto
-- Dokumen
+- Kamera milik Nurhadi
+- Foto keluarga
+- Foto/rekaman tahun 1998
+- Dokumen The LIST
 - Koran
 - Catatan pribadi
 - Rekaman audio
@@ -402,6 +424,17 @@ Jenis bukti potensial:
 - Benda yang berkaitan dengan orang-orang dalam The LIST
 - Jejak lingkungan
 
+Kamera Nurhadi dapat digunakan sebagai alat untuk **membandingkan apa yang dilihat Julian dengan apa yang terekam**.
+
+Contoh kemungkinan fungsi:
+
+- Detail yang tidak terlihat langsung muncul dalam foto.
+- Kondisi objek dalam foto berbeda dari keadaan sekarang.
+- Orang atau benda muncul dalam rekaman yang seharusnya tidak ada.
+- Foto lama memberikan petunjuk yang memungkinkan Julian menemukan hubungan dengan The LIST.
+
+Aturan supernatural kamera **BELUM FINAL**. Kamera tidak boleh otomatis menjadi "alat deteksi hantu" generik.
+
 Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada salah satu atau beberapa hal:
 
 1. Karakterisasi
@@ -411,7 +444,7 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 5. Pengungkapan
 6. Atmosfer
 
-**Status:** CANON sebagai prinsip desain
+**Status:** CANON sebagai prinsip desain / mekanik kamera PROVISIONAL
 
 ---
 
@@ -423,15 +456,17 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 4. Setiap lokasi penting harus memiliki alasan untuk ada.
 5. Setiap karakter penting harus memiliki hubungan dan sejarah.
 6. Ke-21 nama dalam The LIST harus tetap konsisten.
-7. Informasi misteri harus dilacak berdasarkan lapisan pengetahuan.
-8. Aturan horor harus konsisten meskipun karakter belum memahaminya.
-9. Dunia harus terasa tetap berjalan meskipun pemain tidak sedang berada di sana.
-10. Rasa penasaran adalah tujuan desain utama.
-11. LIST harus menghindari menjadi template horor supernatural Indonesia yang generik.
-12. Pertarungan tidak boleh menjadi gameplay utama.
-13. Kehadiran first-person harus tetap penting.
-14. Sinematik harus mendukung pengalaman pemain, bukan menggantikan gameplay.
-15. Materi yang dibuat AI adalah alat bantu pengembangan, bukan otomatis menjadi kanon.
+7. **Kakek dan nenek Julian adalah dua anggota The LIST; Nurhadi dan Maya bukan anggota daftar.**
+8. Informasi misteri harus dilacak berdasarkan lapisan pengetahuan.
+9. Aturan horor harus konsisten meskipun karakter belum memahaminya.
+10. Dunia harus terasa tetap berjalan meskipun pemain tidak sedang berada di sana.
+11. Rasa penasaran adalah tujuan desain utama.
+12. LIST harus menghindari menjadi template horor supernatural Indonesia yang generik.
+13. Pertarungan tidak boleh menjadi gameplay utama.
+14. Kehadiran first-person harus tetap penting.
+15. Sinematik harus mendukung pengalaman pemain, bukan menggantikan gameplay.
+16. Materi yang dibuat AI adalah alat bantu pengembangan, bukan otomatis menjadi kanon.
+17. **Nurhadi dan Maya mengetahui sejarah yang berkaitan dengan The LIST, tetapi tidak boleh memberikan petunjuk langsung kepada Julian pada tahap awal cerita.**
 
 ---
 
@@ -447,20 +482,26 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 - Lapisan sejarah terinspirasi Jawa Timur / 1998
 - Julian Mori sebagai protagonis
 - Nurhadi Mori dan Maya Mori sebagai orang tua Julian
-- Orang tua Julian sudah meninggal
-- Orang tua Julian terhubung dengan misteri
+- **Nurhadi dan Maya masih hidup pada masa kini**
+- **Nurhadi dan Maya mengetahui sejarah yang berkaitan dengan The LIST tetapi sengaja tidak memberi Julian petunjuk**
+- **Kakek dan nenek Julian termasuk dalam 21 nama The LIST**
+- **Nurhadi dan Maya bukan anggota The LIST**
 - The LIST berisi 21 nama
 - Hubungan masa lalu dan masa kini penting
 - Lapisan informasi/pengetahuan penting
+- Kamera Nurhadi sebagai artefak investigasi penting
 
 ## Yang Akan Ditentukan
 
+- Identitas lengkap 21 nama
+- Nomor kakek dan nenek Julian dalam daftar
 - Geografi fiksi secara rinci
 - Kota/kabupaten fiksi
 - Linimasa lengkap
 - Peristiwa sejarah terinspirasi 1998 secara rinci
-- Tanggal masa kini dan konteks usia Julian
-- Daftar lengkap 21 nama
+- Alasan Nurhadi dan Maya menyembunyikan sejarah dari Julian
+- Sejauh mana Nurhadi dan Maya mengetahui kebenaran
+- Arti pasti nama Julian pada materi yang berasal dari 1998
 - Peta hubungan
 - Organisasi
 - Lokasi utama
