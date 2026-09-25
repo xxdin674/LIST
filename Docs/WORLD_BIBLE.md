@@ -1,488 +1,488 @@
 # LIST — WORLD BIBLE
 
-> Living world-building document for the game **LIST**.
-> This document is the source of truth for world-building decisions. Anything not explicitly confirmed is marked as **PROVISIONAL**, **IDEA**, or **UNKNOWN**.
+> Dokumen world-building utama untuk game **LIST**.
+> Dokumen ini menjadi acuan utama keputusan dunia. Hal yang belum dikonfirmasi ditandai **CANON**, **PROVISIONAL**, **IDEA**, atau **UNKNOWN** sesuai statusnya.
 
-## 0. Canon Status
+## 0. Status Kanon
 
-- **CANON** — confirmed by the creator.
-- **PROVISIONAL** — currently chosen, but still open to revision.
-- **IDEA** — exploratory concept, not canon.
-- **UNKNOWN** — intentionally unresolved or not yet defined.
-- **REJECTED** — explicitly discarded; retained only when useful to prevent accidental reuse.
+- **CANON** — sudah dikonfirmasi dan dianggap bagian dari dunia.
+- **PROVISIONAL** — sudah dipilih sementara, tetapi masih terbuka untuk revisi.
+- **IDEA** — konsep eksplorasi, belum menjadi kanon.
+- **UNKNOWN** — sengaja belum ditentukan atau belum terjawab.
+- **REJECTED** — sudah ditolak/dibuang; disimpan agar tidak dipakai kembali secara tidak sengaja.
 
 ---
 
-# 1. WORLD CORE
+# 1. INTI DUNIA
 
-## 1.1 Project Identity
+## 1.1 Identitas Proyek
 
-- **Title:** LIST
-- **Genre:** First-person horror
-- **Primary experience:** Exploration, investigation, environmental storytelling, psychological/atmospheric horror
-- **Combat:** Minimal to none; LIST is not intended to feel like a combat-focused FPS.
-- **Primary player emotion:** Curiosity
-- **Perspective:** First-person
+- **Judul:** LIST
+- **Genre:** Horor orang pertama
+- **Pengalaman utama:** Eksplorasi, investigasi, environmental storytelling, horor psikologis/atmosferik
+- **Combat:** Minimal hingga tidak ada; LIST tidak dirancang sebagai FPS yang berfokus pada pertarungan.
+- **Emosi utama pemain:** Rasa penasaran
+- **Perspektif:** Orang pertama
 - **Engine:** Unreal Engine
-- **Development approach:** AI may assist development, but creative direction and final decisions remain creator-controlled.
+- **Pendekatan pengembangan:** AI boleh membantu proses pengembangan, tetapi arah kreatif dan keputusan akhir tetap dikendalikan kreator.
 
-## 1.2 World Concept
+## 1.2 Konsep Dunia
 
-LIST is set in a fictionalized world inspired by real historical circumstances in East Java, particularly the social and historical atmosphere surrounding **1998**.
+LIST berada di dunia fiksi yang terinspirasi kondisi sejarah nyata di Jawa Timur, terutama atmosfer sosial dan sejarah sekitar **1998**.
 
-Real-world historical inspiration may be transformed through fictional names, places, organizations, and events.
+Inspirasi dunia nyata dapat diubah melalui nama, tempat, organisasi, dan peristiwa fiktif.
 
-### Current principle
+### Prinsip saat ini
 
-The historical layer should feel believable enough to create curiosity without turning LIST into a direct recreation of real-world history.
-
-**Status:** CANON
-
----
-
-# 2. TIME & TIMELINE
-
-## 2.1 Historical Era
-
-- Major historical inspiration: **East Java, around 1998**
-- Julian's present-day era: **UNKNOWN / TO BE DEFINED**
-- Exact fictional calendar and dates: **UNKNOWN**
-
-## 2.2 Timeline Structure
-
-The world should contain at least two important temporal layers:
-
-1. The historical period surrounding the 1998-inspired events.
-2. Julian Mori's present-day investigation.
-
-The player should gradually discover connections between these periods.
-
-**Status:** CANON
-
-## 2.3 Information Layers
-
-The timeline must distinguish between:
-
-- What actually happened.
-- What the public believes happened.
-- What historical records claim happened.
-- What Julian initially knows.
-- What Julian later discovers.
-- What the player understands at each stage.
+Lapisan sejarah harus terasa cukup masuk akal untuk menimbulkan rasa penasaran tanpa menjadikan LIST sebagai rekonstruksi langsung sejarah dunia nyata.
 
 **Status:** CANON
 
 ---
 
-# 3. GEOGRAPHY & MAP
+# 2. WAKTU & LINIMASA
 
-## 3.1 Region
+## 2.1 Era Sejarah
 
-- Inspiration: East Java, Indonesia
-- Exact fictional region: **UNKNOWN**
-- Exact fictional city/town: **UNKNOWN**
-- Geographic relationship to real East Java locations: **PROVISIONAL**
+- Inspirasi sejarah utama: **Jawa Timur, sekitar 1998**
+- Era masa kini Julian: **UNKNOWN / AKAN DITENTUKAN**
+- Kalender dan tanggal fiktif secara rinci: **UNKNOWN**
 
-## 3.2 Geography Principles
+## 2.2 Struktur Linimasa
 
-Locations should have believable:
+Dunia harus memiliki setidaknya dua lapisan waktu penting:
 
-- Distances
-- Roads
-- Travel times
-- Terrain
-- Weather
-- Infrastructure
-- Population patterns
-- Historical reasons for existing
+1. Periode sejarah di sekitar peristiwa yang terinspirasi tahun 1998.
+2. Investigasi Julian di masa kini.
 
-The world should not feel like disconnected horror-game levels.
+Pemain secara bertahap menemukan hubungan antara kedua periode tersebut.
+
+**Status:** CANON
+
+## 2.3 Lapisan Informasi
+
+Linimasa harus membedakan:
+
+- Apa yang sebenarnya terjadi.
+- Apa yang dipercaya masyarakat terjadi.
+- Apa yang tercatat dalam dokumen sejarah.
+- Apa yang awalnya diketahui Julian.
+- Apa yang kemudian ditemukan Julian.
+- Apa yang dipahami pemain pada setiap tahap.
 
 **Status:** CANON
 
 ---
 
-# 4. LOCATIONS
+# 3. GEOGRAFI & PETA
 
-Location database is currently **TO BE BUILT**.
+## 3.1 Wilayah
 
-Each major location should eventually contain:
+- Inspirasi: Jawa Timur, Indonesia
+- Wilayah fiksi yang tepat: **UNKNOWN**
+- Kota/kabupaten fiksi yang tepat: **UNKNOWN**
+- Hubungan geografis dengan lokasi nyata di Jawa Timur: **PROVISIONAL**
 
-- Name
-- Geographic position
-- Time period
-- Current function
-- Historical function
-- Ownership
-- Important inhabitants
-- Relevant events
-- Objects/documents found there
-- Connections to The LIST
-- Connections to Julian
-- Secrets
-- Player knowledge
-- Julian's knowledge
-- Public knowledge
+## 3.2 Prinsip Geografi
 
-## Initial location categories
+Lokasi harus memiliki:
 
-- Julian's home
-- Family-related locations
-- Historical locations
-- Institutional locations
-- Locations connected to The LIST
-- Investigation locations
-- Transitional/exploration areas
+- Jarak yang masuk akal
+- Jalan yang masuk akal
+- Waktu tempuh yang masuk akal
+- Medan
+- Cuaca
+- Infrastruktur
+- Pola persebaran penduduk
+- Alasan historis mengapa lokasi tersebut ada
+
+Dunia tidak boleh terasa seperti kumpulan level horor yang terpisah.
+
+**Status:** CANON
+
+---
+
+# 4. LOKASI
+
+Basis data lokasi saat ini **AKAN DIBANGUN**.
+
+Setiap lokasi utama nantinya harus memiliki:
+
+- Nama
+- Posisi geografis
+- Periode waktu
+- Fungsi saat ini
+- Fungsi historis
+- Kepemilikan
+- Penghuni penting
+- Peristiwa terkait
+- Benda/dokumen yang ditemukan
+- Hubungan dengan The LIST
+- Hubungan dengan Julian
+- Rahasia
+- Pengetahuan pemain
+- Pengetahuan Julian
+- Pengetahuan publik
+
+## Kategori lokasi awal
+
+- Rumah Julian
+- Lokasi yang berkaitan dengan keluarga
+- Lokasi sejarah
+- Institusi
+- Lokasi yang berkaitan dengan The LIST
+- Lokasi investigasi
+- Area transisi/eksplorasi
 
 **Status:** PROVISIONAL
 
 ---
 
-# 5. HISTORY
+# 5. SEJARAH
 
-## 5.1 Historical Foundation
+## 5.1 Dasar Sejarah
 
-LIST uses a fictionalized history inspired by real events and social conditions surrounding East Java in 1998.
+LIST menggunakan sejarah fiksi yang terinspirasi peristiwa dan kondisi sosial Jawa Timur pada 1998.
 
-The historical layer exists to provide context for the mystery rather than functioning as background decoration.
+Lapisan sejarah digunakan untuk memberikan konteks pada misteri, bukan sekadar dekorasi latar.
 
 **Status:** CANON
 
-## 5.2 The 1998 Connection
+## 5.2 Hubungan dengan 1998
 
-The 1998-inspired period is connected to:
+Periode yang terinspirasi 1998 berkaitan dengan:
 
-- Julian's parents
+- Orang tua Julian
 - The LIST
-- Historical events
-- Missing people
-- A deeper unexplained phenomenon
+- Peristiwa sejarah
+- Orang-orang yang hilang
+- Fenomena yang belum dapat dijelaskan
 
-The exact sequence and causality are **UNKNOWN** and must be developed before becoming canon.
+Urutan kejadian dan hubungan sebab-akibat secara tepat masih **UNKNOWN** dan harus dikembangkan sebelum menjadi kanon.
 
-## 5.3 Established Chapter 0 Historical Hook
+## 5.3 Pemicu Sejarah Chapter 0
 
-Julian receives his father's camera and discovers a recording from 1998. The recording leads him to a LIST-related document in which his own name appears despite the document originating in 1998. A warning associated with the material reads **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** The first anomaly is introduced through this discovery.
+Julian menerima kamera milik ayahnya dan menemukan rekaman dari tahun 1998. Rekaman tersebut membawanya pada sebuah dokumen yang berkaitan dengan The LIST, di mana namanya sendiri muncul meskipun dokumen tersebut berasal dari 1998. Peringatan yang berkaitan dengan materi tersebut berbunyi **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** Anomali pertama diperkenalkan melalui penemuan ini.
 
-**Status:** DRAFT / CORE OPENING
+**Status:** DRAFT / INTI PEMBUKAAN
 
 ---
 
-# 6. SOCIETY & CULTURE
+# 6. MASYARAKAT & BUDAYA
 
-## 6.1 General Principle
+## 6.1 Prinsip Umum
 
-The world should behave like a believable Indonesian environment rather than a generic horror-game setting.
+Dunia harus berperilaku seperti lingkungan Indonesia yang masuk akal, bukan setting horor generik.
 
-World-building should account for:
+World-building harus memperhatikan:
 
-- Everyday life
-- Family structures
-- Schools
-- Work
-- Transportation
-- Local businesses
+- Kehidupan sehari-hari
+- Struktur keluarga
+- Sekolah
+- Pekerjaan
+- Transportasi
+- Bisnis lokal
 - Media
-- Communication
-- Architecture
-- Religious/social environments where relevant to the fictional setting
-- Technology available in each period
-- Economic conditions
-- Local language and naming conventions
+- Komunikasi
+- Arsitektur
+- Lingkungan sosial/agama bila relevan dengan setting fiksi
+- Teknologi pada setiap periode
+- Kondisi ekonomi
+- Bahasa dan kebiasaan penamaan lokal
 
 **Status:** CANON
 
-## 6.2 1998 Technology
+## 6.2 Teknologi 1998
 
-Exact technology, communication systems, media, and infrastructure will be defined during the historical world-building pass.
+Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentukan pada tahap world-building sejarah.
 
 **Status:** UNKNOWN
 
 ---
 
-# 7. CHARACTERS & RELATIONSHIPS
+# 7. KARAKTER & HUBUNGAN
 
 ## 7.1 Julian Mori
 
-- **Name:** Julian Mori
-- **Role:** Main protagonist / playable character
-- **Age:** 17
-- **Perspective:** First-person
-- **Personality direction:** Curious, cheerful, active
-- **Visual direction:** Asian appearance, wolf-cut hair, glasses, chubby cheeks, smaller/chubbier active build
-- **Major motivation:** Investigate his parents' deaths and determine what really happened.
-- **Established character direction:** Naturally gifted and self-taught; notices patterns/details others miss; curiosity can override his instinct to retreat.
-- **Initial knowledge of the historical mystery:** Limited
-- **Connection to The LIST:** Major
-- **Combat role:** None / minimal by design
+- **Nama:** Julian Mori
+- **Peran:** Protagonis utama / karakter yang dimainkan
+- **Usia:** 17 tahun
+- **Perspektif:** Orang pertama
+- **Arah kepribadian:** Penasaran, ceria, aktif
+- **Arah visual:** Penampilan Asia, rambut wolf-cut, kacamata, pipi chubby, tubuh agak kecil/chubby tetapi aktif
+- **Motivasi utama:** Menyelidiki kematian orang tuanya dan mengetahui apa yang sebenarnya terjadi.
+- **Arah karakter yang sudah ditetapkan:** Berbakat secara alami dan belajar secara mandiri; mampu memperhatikan pola/detail yang sering dilewatkan orang lain; rasa penasaran dapat mengalahkan dorongan untuk mundur.
+- **Pengetahuan awal tentang misteri sejarah:** Terbatas
+- **Hubungan dengan The LIST:** Sangat penting
+- **Peran combat:** Tidak ada / seminimal mungkin sesuai desain
 
-**Status:** CANON / PROVISIONAL where not yet fully specified
+**Status:** CANON / PROVISIONAL untuk detail yang belum final
 
 ## 7.2 Nurhadi Mori
 
-- **Role:** Julian's father
-- **Connection:** Active around the 1998-inspired historical period
-- **Current status:** Deceased
-- **Connection to mystery:** Major
-- **Exact history:** TO BE DEFINED
+- **Peran:** Ayah Julian
+- **Hubungan:** Aktif pada periode sejarah yang terinspirasi 1998
+- **Status saat masa Julian:** Meninggal
+- **Hubungan dengan misteri:** Sangat penting
+- **Sejarah lengkap:** AKAN DITENTUKAN
 
 **Status:** CANON
 
 ## 7.3 Maya Mori
 
-- **Role:** Julian's mother
-- **Connection:** Active around the 1998-inspired historical period
-- **Current status:** Deceased
-- **Connection to mystery:** Major
-- **Exact history:** TO BE DEFINED
+- **Peran:** Ibu Julian
+- **Hubungan:** Aktif pada periode sejarah yang terinspirasi 1998
+- **Status saat masa Julian:** Meninggal
+- **Hubungan dengan misteri:** Sangat penting
+- **Sejarah lengkap:** AKAN DITENTUKAN
 
 **Status:** CANON
 
 ---
 
-# 8. THE LIST — WORLD RECORD
+# 8. THE LIST — CATATAN DUNIA
 
-## 8.1 Core Concept
+## 8.1 Konsep Utama
 
-**The LIST** is a central mystery element containing **21 names**.
+**The LIST** adalah elemen misteri utama yang berisi **21 nama**.
 
-The identities, relationships, historical connections, and reasons each person appears on the list are still being developed.
+Identitas, hubungan, koneksi sejarah, dan alasan setiap orang berada dalam daftar masih dikembangkan.
 
 **Status:** CANON
 
-## 8.2 The 21 Names
+## 8.2 21 Nama
 
-The exact 21-name roster is currently **NOT ENTERED IN THIS FILE**.
+Daftar 21 nama yang tepat saat ini **BELUM DIMASUKKAN KE FILE INI**.
 
-Do not invent names.
+Jangan mengarang nama.
 
-When the roster is finalized, each entry should contain:
+Ketika daftar sudah difinalisasi, setiap entri harus berisi:
 
-1. Name
-2. Age / approximate age
-3. Identity
-4. Occupation
-5. Family
-6. Relationships
-7. Location
-8. 1998 connection
-9. Connection to Nurhadi
-10. Connection to Maya
-11. Connection to Julian
-12. Fate/status
-13. Why the name appears on The LIST
-14. What the public knows
-15. What Julian knows
-16. What the player knows
-17. Hidden truth
-18. Evidence connected to the person
+1. Nama
+2. Usia / perkiraan usia
+3. Identitas
+4. Pekerjaan
+5. Keluarga
+6. Hubungan
+7. Lokasi
+8. Hubungan dengan 1998
+9. Hubungan dengan Nurhadi
+10. Hubungan dengan Maya
+11. Hubungan dengan Julian
+12. Nasib/status
+13. Alasan nama tersebut ada di The LIST
+14. Apa yang diketahui publik
+15. Apa yang diketahui Julian
+16. Apa yang diketahui pemain
+17. Kebenaran tersembunyi
+18. Bukti yang berkaitan dengan orang tersebut
 
 ---
 
-# 9. ORGANIZATIONS & INSTITUTIONS
+# 9. ORGANISASI & INSTITUSI
 
-Potential categories:
+Kategori potensial:
 
-- Government institutions
-- Schools
-- Companies
-- Medical facilities
-- Community organizations
-- Historical organizations
-- Private groups
-- Organizations connected to The LIST
+- Institusi pemerintah
+- Sekolah
+- Perusahaan
+- Fasilitas medis
+- Organisasi masyarakat
+- Organisasi sejarah
+- Kelompok privat
+- Organisasi yang berkaitan dengan The LIST
 
-No specific organization is canon until explicitly established.
+Tidak ada organisasi spesifik yang menjadi kanon sebelum ditetapkan secara eksplisit.
 
 **Status:** UNKNOWN
 
 ---
 
-# 10. THE UNKNOWN & WORLD RULES
+# 10. HAL YANG TIDAK DIKETAHUI & ATURAN DUNIA
 
-## 10.1 Horror Philosophy
+## 10.1 Filosofi Horor
 
-The horror should not depend on constant jumpscares.
+Horor tidak boleh bergantung pada jumpscare terus-menerus.
 
-The player should experience:
+Pemain seharusnya mengalami:
 
-- Curiosity
-- Uncertainty
-- Suspicion
-- Environmental anomalies
-- Gradual realization
-- Fear generated by understanding something that should not make sense
+- Rasa penasaran
+- Ketidakpastian
+- Kecurigaan
+- Anomali lingkungan
+- Kesadaran yang muncul secara bertahap
+- Rasa takut karena memahami sesuatu yang seharusnya tidak masuk akal
 
 **Status:** CANON
 
-## 10.2 The Unseen Threat
+## 10.2 Ancaman yang Tidak Terlihat
 
-A major horror concept involves a threat or phenomenon that may be dangerous to directly observe.
+Salah satu konsep horor utama melibatkan ancaman atau fenomena yang mungkin berbahaya jika diamati secara langsung.
 
-This concept is inspired in part by the idea of an unseen/observation-related threat, but the exact mechanics and lore are **NOT FINAL**.
+Konsep ini sebagian terinspirasi gagasan ancaman yang tidak terlihat/berhubungan dengan observasi, tetapi mekanik dan lore tepatnya **BELUM FINAL**.
 
-Do not reduce the mechanic to a generic "don't look at the monster" system without narrative justification.
+Jangan mengubahnya menjadi sekadar sistem generik "jangan lihat monster" tanpa alasan yang berasal dari cerita.
 
 **Status:** PROVISIONAL
 
-## 10.3 Rules of Reality
+## 10.3 Aturan Realitas
 
-The following must eventually be defined:
+Hal-hal berikut nantinya harus ditentukan:
 
-- What the phenomenon is.
-- Whether it is supernatural, psychological, physical, or intentionally ambiguous.
-- What triggers it.
-- What the player can perceive.
-- What happens when it is observed.
-- What limitations it has.
-- Whether its rules are consistent.
-- Whether characters understand the rules.
-- Whether the player can learn the rules through evidence.
+- Apa sebenarnya fenomena tersebut.
+- Apakah fenomena itu supernatural, psikologis, fisik, atau sengaja dibuat ambigu.
+- Apa yang memicunya.
+- Apa yang dapat dirasakan pemain.
+- Apa yang terjadi ketika fenomena tersebut diamati.
+- Batasannya.
+- Apakah aturannya konsisten.
+- Apakah karakter memahami aturannya.
+- Apakah pemain dapat mempelajari aturan tersebut melalui bukti.
 
 **Status:** UNKNOWN
 
 ---
 
-# 11. INFORMATION & CANON MAP
+# 11. INFORMASI & PETA KANON
 
-This section is critical to LIST.
+Bagian ini sangat penting untuk LIST.
 
-Every major mystery should be tracked across multiple knowledge layers.
+Setiap misteri utama harus dilacak berdasarkan beberapa lapisan pengetahuan.
 
-## 11.1 Knowledge Layers
+## 11.1 Lapisan Pengetahuan
 
-### WORLD TRUTH
-What actually happened.
+### KEBENARAN DUNIA
+Apa yang sebenarnya terjadi.
 
-### PUBLIC KNOWLEDGE
-What ordinary people believe or what official records say.
+### PENGETAHUAN PUBLIK
+Apa yang dipercaya masyarakat atau tercatat dalam dokumen resmi.
 
-### CHARACTER KNOWLEDGE
-What individual characters know.
+### PENGETAHUAN KARAKTER
+Apa yang diketahui setiap karakter.
 
-### JULIAN KNOWLEDGE
-What Julian knows at a particular point in the story.
+### PENGETAHUAN JULIAN
+Apa yang diketahui Julian pada titik tertentu dalam cerita.
 
-### PLAYER KNOWLEDGE
-What the player has actually discovered.
+### PENGETAHUAN PEMAIN
+Apa yang benar-benar telah ditemukan pemain.
 
-### FALSE INFORMATION
-Information that appears credible but is incorrect, incomplete, manipulated, or misunderstood.
+### INFORMASI PALSU
+Informasi yang terlihat meyakinkan tetapi salah, tidak lengkap, dimanipulasi, atau disalahpahami.
 
 **Status:** CANON
 
-## 11.2 Mystery Tracking Rule
+## 11.2 Aturan Pelacakan Misteri
 
-When creating a major revelation, record:
+Saat membuat pengungkapan besar, catat:
 
-- Previous assumption
-- Evidence
-- New information
-- Who knows it
-- Who does not know it
-- Whether the information is true
-- Whether the information is intentionally misleading
-- When the player is supposed to learn it
-
----
-
-# 12. OBJECTS, MEDIA & ARTIFACTS
-
-Potential evidence types:
-
-- Photographs
-- Documents
-- Newspapers
-- Personal notes
-- Audio recordings
-- Video recordings
-- Family belongings
-- School records
-- Historical records
-- Objects connected to people on The LIST
-- Environmental traces
-
-Objects should have a reason to exist in the world and should contribute to either:
-
-1. Characterization
-2. Historical context
-3. Investigation
-4. Misdirection
-5. Revelation
-6. Atmosphere
-
-**Status:** CANON as a design principle
+- Asumsi sebelumnya
+- Bukti
+- Informasi baru
+- Siapa yang mengetahuinya
+- Siapa yang tidak mengetahuinya
+- Apakah informasinya benar
+- Apakah informasi tersebut sengaja menyesatkan
+- Kapan pemain seharusnya mengetahuinya
 
 ---
 
-# 13. WORLD-BUILDING RULES
+# 12. BENDA, MEDIA & ARTEFAK
 
-1. Do not invent canon without explicitly marking it.
-2. Do not add a historical fact to LIST merely because it sounds plausible.
-3. Fictionalized locations and organizations must remain internally consistent.
-4. Every important location should have a reason to exist.
-5. Every important character should have relationships and history.
-6. The LIST's 21 names must remain internally consistent.
-7. Mystery information must be tracked by knowledge layer.
-8. Horror rules must be consistent even when characters do not understand them.
-9. The world should feel like a functioning place outside the player's immediate view.
-10. Curiosity is a primary design goal.
-11. LIST should avoid becoming a generic Indonesian supernatural-horror template.
-12. Combat should not become the primary gameplay loop.
-13. First-person presence should remain important.
-14. Cinematics should support the player's experience rather than replacing gameplay.
-15. AI-generated material is a development aid, not automatically canon.
+Jenis bukti potensial:
 
----
+- Foto
+- Dokumen
+- Koran
+- Catatan pribadi
+- Rekaman audio
+- Rekaman video
+- Barang milik keluarga
+- Catatan sekolah
+- Catatan sejarah
+- Benda yang berkaitan dengan orang-orang dalam The LIST
+- Jejak lingkungan
 
-# 14. CURRENT DEVELOPMENT STATUS
+Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada salah satu atau beberapa hal:
 
-## Confirmed
+1. Karakterisasi
+2. Konteks sejarah
+3. Investigasi
+4. Pengalihan/misdirection
+5. Pengungkapan
+6. Atmosfer
 
-- LIST title
-- First-person horror
-- Minimal/no combat direction
-- Investigation/exploration focus
-- Curiosity as a core emotion
-- East Java / 1998-inspired historical layer
-- Julian Mori as protagonist
-- Nurhadi Mori and Maya Mori as Julian's parents
-- Parents are deceased
-- Parents are connected to the mystery
-- The LIST contains 21 names
-- Historical/present connection is important
-- Information/knowledge layers are important
-
-## To Define Next
-
-- Exact fictional geography
-- Exact fictional city/town
-- Full timeline
-- Detailed 1998-inspired historical events
-- Julian's present-day date/age context
-- Full 21-name LIST roster
-- Relationship map
-- Organizations
-- Major locations
-- Exact nature/rules of the unknown phenomenon
-- World truth versus public narrative
-- Objects and historical evidence
+**Status:** CANON sebagai prinsip desain
 
 ---
 
-# 15. WORLD-BUILDING WORK ORDER
+# 13. ATURAN WORLD-BUILDING
 
-1. **World Core**
-2. **Timeline**
-3. **Geography & Map**
-4. **Locations**
-5. **History**
-6. **Society & Culture**
-7. **Characters & Relationships**
+1. Jangan membuat sesuatu menjadi kanon tanpa menandai statusnya.
+2. Jangan menambahkan fakta sejarah ke LIST hanya karena terdengar masuk akal.
+3. Lokasi dan organisasi fiksi harus tetap konsisten secara internal.
+4. Setiap lokasi penting harus memiliki alasan untuk ada.
+5. Setiap karakter penting harus memiliki hubungan dan sejarah.
+6. Ke-21 nama dalam The LIST harus tetap konsisten.
+7. Informasi misteri harus dilacak berdasarkan lapisan pengetahuan.
+8. Aturan horor harus konsisten meskipun karakter belum memahaminya.
+9. Dunia harus terasa tetap berjalan meskipun pemain tidak sedang berada di sana.
+10. Rasa penasaran adalah tujuan desain utama.
+11. LIST harus menghindari menjadi template horor supernatural Indonesia yang generik.
+12. Combat tidak boleh menjadi gameplay utama.
+13. Kehadiran first-person harus tetap penting.
+14. Sinematik harus mendukung pengalaman pemain, bukan menggantikan gameplay.
+15. Materi yang dibuat AI adalah alat bantu pengembangan, bukan otomatis menjadi kanon.
+
+---
+
+# 14. STATUS PENGEMBANGAN SAAT INI
+
+## Sudah Ditetapkan
+
+- Judul LIST
+- Horor orang pertama
+- Arah minimal/tanpa combat
+- Fokus investigasi/eksplorasi
+- Rasa penasaran sebagai emosi utama
+- Lapisan sejarah terinspirasi Jawa Timur / 1998
+- Julian Mori sebagai protagonis
+- Nurhadi Mori dan Maya Mori sebagai orang tua Julian
+- Orang tua Julian sudah meninggal
+- Orang tua Julian terhubung dengan misteri
+- The LIST berisi 21 nama
+- Hubungan masa lalu dan masa kini penting
+- Lapisan informasi/pengetahuan penting
+
+## Yang Akan Ditentukan
+
+- Geografi fiksi secara rinci
+- Kota/kabupaten fiksi
+- Linimasa lengkap
+- Peristiwa sejarah terinspirasi 1998 secara rinci
+- Tanggal masa kini dan konteks usia Julian
+- Daftar lengkap 21 nama
+- Peta hubungan
+- Organisasi
+- Lokasi utama
+- Sifat dan aturan pasti fenomena
+- Kebenaran dunia versus narasi publik
+- Benda dan bukti sejarah
+
+---
+
+# 15. URUTAN WORLD-BUILDING
+
+1. **Inti Dunia**
+2. **Linimasa**
+3. **Geografi & Peta**
+4. **Lokasi**
+5. **Sejarah**
+6. **Masyarakat & Budaya**
+7. **Karakter & Hubungan**
 8. **The LIST**
-9. **Organizations & Institutions**
-10. **The Unknown & World Rules**
-11. **Information & Canon Map**
-12. **Objects, Media & Artifacts**
+9. **Organisasi & Institusi**
+10. **Hal yang Tidak Diketahui & Aturan Dunia**
+11. **Informasi & Peta Kanon**
+12. **Benda, Media & Artefak**
 
-Only after the World Bible is sufficiently stable should detailed story, level design, gameplay implementation, and technical architecture be locked.
+Setelah World Bible cukup stabil, barulah cerita detail, level design, gameplay, dan arsitektur teknis dikunci.
