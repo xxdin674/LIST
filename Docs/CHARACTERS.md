@@ -1,71 +1,86 @@
-# LIST — CHARACTERS
+# LIST — KARAKTER
 
 ## Julian Mori
 
 **Status:** CANON / PROVISIONAL DETAILS
 
-- Age: **17**
-- Role: Main protagonist / playable character
-- Perspective: First-person
-- Heritage direction: Asian × Western
-- Personality: Cheerful, playful, curious
-- Traits: Naturally gifted, self-taught, notices patterns/details others miss
-- Core flaw/driver: Curiosity can override the instinct to retreat
-- Physical direction: Hiro Hamada-sized direction, slightly chubby but active
-- Skin: Asian tone
-- Face: Chubby cheeks
-- Hair: Wolf-cut
-- Eyewear: Glasses
-- Parents: Nurhadi Mori and Maya Mori
-- Parents' status: Deceased
-- Story motivation: Investigate his parents' deaths and prove/discover what really happened
-- Historical connection: His parents were tied to the concealed 1998 event
-- The LIST connection: His own name appears on a 1998-related document despite his age
+- Usia: **17**
+- Peran: Protagonis utama / karakter yang dimainkan
+- Perspektif: Orang pertama
+- Arah heritage: Asia × Barat
+- Kepribadian: Ceria, playful, penasaran
+- Sifat: Berbakat secara alami, belajar mandiri, memperhatikan pola/detail yang sering dilewatkan orang lain
+- Penggerak utama: Rasa penasaran dapat mengalahkan dorongan untuk mundur
+- Arah fisik: Proporsi searah Hiro Hamada, sedikit chubby tetapi aktif
+- Kulit: Tone Asia
+- Wajah: Pipi chubby
+- Rambut: Wolf-cut
+- Kacamata: Ya
+- Orang tua: Nurhadi Mori dan Maya Mori
+- Status orang tua: **Masih hidup pada masa kini**
+- Motivasi cerita: Memahami misteri yang berkaitan dengan keluarganya dan sejarah 1998
+- Pengetahuan awal: Tidak mengetahui sejarah tersembunyi keluarganya
+- Hubungan dengan The LIST: Sangat penting; dua nama dalam daftar merupakan kakek dan nenek Julian
 
-### Character Design Principle
+### Prinsip Desain Karakter
 
-Julian should feel like a believable teenager whose curiosity is a gameplay driver, not a generic horror protagonist who exists only to be frightened.
+Julian harus terasa seperti remaja yang masuk akal dan rasa penasarannya menjadi penggerak gameplay, bukan protagonis horor generik yang hanya ada untuk ditakuti.
 
 ## Nurhadi Mori
 
 **Status:** CANON CORE / DRAFT DETAILS SEPARATED
 
-- Julian's father
-- Active around the 1998 historical period
-- Deceased in Julian's present
-- Connected to The LIST
-- His camera becomes an important story object
+- Ayah Julian
+- Masih hidup pada masa kini
+- Aktif dan memiliki pengalaman pada periode sejarah yang terinspirasi 1998
+- Mengetahui sejarah tersembunyi yang berkaitan dengan The LIST
+- Mengetahui bahwa orang tua/generasi sebelumnya dalam keluarganya terhubung dengan The LIST
+- Sengaja **tidak memberikan petunjuk sejarah tersebut kepada Julian**
+- Kamera miliknya menjadi benda cerita penting dan sumber bukti investigasi
 
-### Previously Explored Draft Lore
+### Sebelumnya Dieksplorasi sebagai DRAFT
 
-- Born 1966
-- Electronics/appliance technician
-- Observant and practical
-- Began the LIST in 1998
+- Lahir 1966
+- Teknisi elektronik/peralatan rumah tangga
+- Observan dan praktis
+- Pernah terlibat langsung dalam penelusuran The LIST pada 1998
 
-These details were previously explored as **DRAFT**, not locked canon.
+Detail ini tetap **DRAFT**, kecuali status yang sudah disebut CANON CORE di atas.
 
 ## Maya Mori
 
 **Status:** CANON CORE / DRAFT DETAILS SEPARATED
 
-- Julian's mother
-- Active around the 1998 historical period
-- Deceased in Julian's present
-- Connected to The LIST
-- Her role contributes to the evidence/testimony side of the mystery
+- Ibu Julian
+- Masih hidup pada masa kini
+- Aktif dan memiliki pengalaman pada periode sejarah yang terinspirasi 1998
+- Mengetahui sejarah tersembunyi yang berkaitan dengan The LIST
+- Mengetahui hubungan generasi sebelumnya dalam keluarganya dengan The LIST
+- Sengaja **tidak memberikan petunjuk sejarah tersebut kepada Julian**
+- Berperan dalam sisi bukti, kesaksian, dan konteks keluarga
 
-### Previously Explored Draft Lore
+### Sebelumnya Dieksplorasi sebagai DRAFT
 
-- Born 1970
-- Nurse
+- Lahir 1970
+- Perawat
 - Human-centered
-- Previously explored as adding a **SEEN** notation
+- Pernah dieksplorasi sebagai orang yang menambahkan catatan **SEEN**
 
-These details were previously explored as **DRAFT**, not locked canon.
+Detail ini tetap **DRAFT**, kecuali status yang sudah disebut CANON CORE di atas.
+
+## Kakek & Nenek Julian
+
+**Status:** CANON CORE / IDENTITAS BELUM DIKUNCI
+
+- Kakek Julian dan nenek Julian termasuk dalam **21 nama The LIST**
+- Mereka berasal dari generasi yang terhubung langsung dengan peristiwa 1998
+- Identitas dan nomor masing-masing dalam The LIST belum dikunci
+- Hubungan tepat mereka dengan peristiwa 1998 masih harus dikembangkan
+- Julian pada awal cerita belum mengetahui bahwa dua nama tersebut adalah kakek dan neneknya
 
 ## The 21 Names
 
-The full 21-name roster is intentionally not reproduced or invented here until the creator locks it.
+The LIST tetap berisi **21 nama**.
 
-Previously explored relationship concepts are retained separately as draft material.
+Jangan mengarang nama atau mengunci hubungan yang belum ditetapkan. Yang sudah menjadi arah kanon adalah bahwa **dua dari 21 nama tersebut adalah kakek dan nenek Julian**, sementara Nurhadi dan Maya bukan anggota The LIST.
+
