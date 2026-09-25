@@ -160,6 +160,12 @@ The 1998-inspired period is connected to:
 
 The exact sequence and causality are **UNKNOWN** and must be developed before becoming canon.
 
+## 5.3 Established Chapter 0 Historical Hook
+
+Julian receives his father's camera and discovers a recording from 1998. The recording leads him to a LIST-related document in which his own name appears despite the document originating in 1998. A warning associated with the material reads **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** The first anomaly is introduced through this discovery.
+
+**Status:** DRAFT / CORE OPENING
+
 ---
 
 # 6. SOCIETY & CULTURE
@@ -200,11 +206,12 @@ Exact technology, communication systems, media, and infrastructure will be defin
 
 - **Name:** Julian Mori
 - **Role:** Main protagonist / playable character
-- **Age:** Teenager
+- **Age:** 17
 - **Perspective:** First-person
 - **Personality direction:** Curious, cheerful, active
 - **Visual direction:** Asian appearance, wolf-cut hair, glasses, chubby cheeks, smaller/chubbier active build
 - **Major motivation:** Investigate his parents' deaths and determine what really happened.
+- **Established character direction:** Naturally gifted and self-taught; notices patterns/details others miss; curiosity can override his instinct to retreat.
 - **Initial knowledge of the historical mystery:** Limited
 - **Connection to The LIST:** Major
 - **Combat role:** None / minimal by design
