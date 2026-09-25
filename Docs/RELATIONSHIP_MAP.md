@@ -1,8 +1,8 @@
-# LIST — RELATIONSHIP MAP
+# LIST — PETA HUBUNGAN
 
-> This is a working map. Do not treat exploratory relationship proposals as canon until explicitly locked.
+> Peta hubungan kerja. Arah eksplorasi tidak boleh dianggap kanon final kecuali sudah dikunci secara eksplisit.
 
-## Core Family
+## Keluarga Inti
 
 **Nurhadi Mori**
 ↓
@@ -12,17 +12,29 @@
 ↓
 **Julian Mori**
 
-Nurhadi and Maya are Julian's parents and are both connected to the concealed 1998 event.
+Nurhadi dan Maya adalah orang tua Julian dan **masih hidup pada masa kini**.
 
-## The LIST Network
+Keduanya mengetahui sejarah keluarga yang berkaitan dengan peristiwa 1998 dan The LIST, tetapi **sengaja tidak memberikan petunjuk kepada Julian**.
 
-The LIST contains **21 names**.
+## Generasi The LIST
 
-The exact roster and final relationship graph are not to be invented in this document.
+**Kakek Julian** → salah satu dari 21 nama The LIST
 
-### Previously Explored Draft Connections
+**Nenek Julian** → salah satu dari 21 nama The LIST
 
-Earlier brainstorming explored possible relationships around:
+Hubungan ini adalah **CANON CORE**, tetapi identitas, nomor, peran, dan hubungan mereka dengan peristiwa 1998 belum dikunci.
+
+Nurhadi dan Maya **bukan** anggota The LIST.
+
+## Jaringan The LIST
+
+The LIST berisi **21 nama**.
+
+Daftar final dan grafik hubungan lengkap tidak boleh diada-adakan dalam dokumen ini sebelum dikunci.
+
+### Koneksi yang Sebelumnya Dieksplorasi
+
+Brainstorming sebelumnya mengeksplorasi kemungkinan hubungan di sekitar:
 
 - Nurhadi
 - Maya
@@ -36,21 +48,21 @@ Earlier brainstorming explored possible relationships around:
 - Rudi
 - Fajar
 - Julian
-- additional LIST entries
+- entri The LIST lainnya
 
-These are retained as **DRAFT / EXPLORATORY ONLY** and must not be treated as final roster data.
+Nama-nama tersebut tetap **DRAFT / EKSPLORASI SAJA** kecuali sudah dikunci di dokumen khusus The LIST.
 
-## Relationship Rules
+## Aturan Hubungan
 
-Every locked relationship should eventually record:
+Setiap hubungan yang dikunci nantinya harus mencatat:
 
-- Person A
-- Person B
-- Relationship type
-- When the relationship existed
-- Public knowledge
-- Private knowledge
-- Connection to 1998
-- Connection to The LIST
-- Evidence supporting the relationship
-- Canon status
+- Orang A
+- Orang B
+- Jenis hubungan
+- Kapan hubungan tersebut ada
+- Pengetahuan publik
+- Pengetahuan privat
+- Koneksi ke 1998
+- Koneksi ke The LIST
+- Bukti yang mendukung hubungan
+- Status kanon
