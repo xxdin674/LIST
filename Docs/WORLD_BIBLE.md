@@ -1,4 +1,4 @@
-# LIST — WORLD BIBLE
+# LIST — ALKITAB DUNIA
 
 > Dokumen world-building utama untuk game **LIST**.
 > Dokumen ini menjadi acuan utama keputusan dunia. Hal yang belum dikonfirmasi ditandai **CANON**, **PROVISIONAL**, **IDEA**, atau **UNKNOWN** sesuai statusnya.
@@ -20,10 +20,10 @@
 - **Judul:** LIST
 - **Genre:** Horor orang pertama
 - **Pengalaman utama:** Eksplorasi, investigasi, environmental storytelling, horor psikologis/atmosferik
-- **Combat:** Minimal hingga tidak ada; LIST tidak dirancang sebagai FPS yang berfokus pada pertarungan.
+- **Pertarungan:** Minimal hingga tidak ada; LIST tidak dirancang sebagai FPS yang berfokus pada pertarungan.
 - **Emosi utama pemain:** Rasa penasaran
 - **Perspektif:** Orang pertama
-- **Engine:** Unreal Engine
+- **Mesin permainan:** Unreal Engine
 - **Pendekatan pengembangan:** AI boleh membantu proses pengembangan, tetapi arah kreatif dan keputusan akhir tetap dikendalikan kreator.
 
 ## 1.2 Konsep Dunia
@@ -160,7 +160,7 @@ Periode yang terinspirasi 1998 berkaitan dengan:
 
 Urutan kejadian dan hubungan sebab-akibat secara tepat masih **UNKNOWN** dan harus dikembangkan sebelum menjadi kanon.
 
-## 5.3 Pemicu Sejarah Chapter 0
+## 5.3 Pemicu Sejarah Bab 0
 
 Julian menerima kamera milik ayahnya dan menemukan rekaman dari tahun 1998. Rekaman tersebut membawanya pada sebuah dokumen yang berkaitan dengan The LIST, di mana namanya sendiri muncul meskipun dokumen tersebut berasal dari 1998. Peringatan yang berkaitan dengan materi tersebut berbunyi **"Jangan biarkan dia melihat" / "DON'T LET HIM SEE."** Anomali pertama diperkenalkan melalui penemuan ini.
 
@@ -172,7 +172,7 @@ Julian menerima kamera milik ayahnya dan menemukan rekaman dari tahun 1998. Reka
 
 ## 6.1 Prinsip Umum
 
-Dunia harus berperilaku seperti lingkungan Indonesia yang masuk akal, bukan setting horor generik.
+Dunia harus berperilaku seperti lingkungan Indonesia yang masuk akal, bukan latar horor generik.
 
 World-building harus memperhatikan:
 
@@ -214,7 +214,7 @@ Teknologi, sistem komunikasi, media, dan infrastruktur secara rinci akan ditentu
 - **Arah karakter yang sudah ditetapkan:** Berbakat secara alami dan belajar secara mandiri; mampu memperhatikan pola/detail yang sering dilewatkan orang lain; rasa penasaran dapat mengalahkan dorongan untuk mundur.
 - **Pengetahuan awal tentang misteri sejarah:** Terbatas
 - **Hubungan dengan The LIST:** Sangat penting
-- **Peran combat:** Tidak ada / seminimal mungkin sesuai desain
+- **Peran pertarungan:** Tidak ada / seminimal mungkin sesuai desain
 
 **Status:** CANON / PROVISIONAL untuk detail yang belum final
 
@@ -428,7 +428,7 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 9. Dunia harus terasa tetap berjalan meskipun pemain tidak sedang berada di sana.
 10. Rasa penasaran adalah tujuan desain utama.
 11. LIST harus menghindari menjadi template horor supernatural Indonesia yang generik.
-12. Combat tidak boleh menjadi gameplay utama.
+12. Pertarungan tidak boleh menjadi gameplay utama.
 13. Kehadiran first-person harus tetap penting.
 14. Sinematik harus mendukung pengalaman pemain, bukan menggantikan gameplay.
 15. Materi yang dibuat AI adalah alat bantu pengembangan, bukan otomatis menjadi kanon.
@@ -441,7 +441,7 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 
 - Judul LIST
 - Horor orang pertama
-- Arah minimal/tanpa combat
+- Arah minimal/tanpa pertarungan
 - Fokus investigasi/eksplorasi
 - Rasa penasaran sebagai emosi utama
 - Lapisan sejarah terinspirasi Jawa Timur / 1998
@@ -485,4 +485,4 @@ Setiap benda harus memiliki alasan keberadaan di dunia dan berkontribusi pada sa
 11. **Informasi & Peta Kanon**
 12. **Benda, Media & Artefak**
 
-Setelah World Bible cukup stabil, barulah cerita detail, level design, gameplay, dan arsitektur teknis dikunci.
+Setelah World Bible cukup stabil, barulah cerita detail, desain level, gameplay, dan arsitektur teknis dikunci.
